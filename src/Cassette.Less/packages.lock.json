@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.0,Profile=Client": {
+      "DotlessClientOnly": {
+        "type": "Direct",
+        "requested": "[1.4.0, 1.4.0]",
+        "resolved": "1.4.0",
+        "contentHash": "yjS1mxGAxxcfiOGWCxbSz+5QPBsGrn8vwcHPzTXMmRfymgF4KB78qkZkbM8wk2wUrfOBUuJOLLMgjAiYKeIowA=="
+      },
+      "Iesi.Collections": {
+        "type": "Direct",
+        "requested": "[3.3.2.4000, 3.3.2.4000]",
+        "resolved": "3.3.2.4000",
+        "contentHash": "WUMFrYv59y37WrDzSBtm3K2nCd5+OtC+Wz0R1HOU1ucA1Tfua1HuPy3cpwKdsukMPjtNBSYOFM1HsA9te/dEkg=="
+      }
+    }
+  }
+}

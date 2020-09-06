@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "dependencies": {
+    "Any,Version=v0.0": {
+      "Microsoft.AspNet.Mvc": {
+        "type": "Direct",
+        "requested": "[3.0.20105.1, 3.0.20105.1]",
+        "resolved": "3.0.20105.1",
+        "contentHash": "CjEb1ExBqe3DceDCg4EhdimdoDTMuBOmA490lRKgl3EN8L4G8+lBRHDF7Ho8QkFsY7C5Y4pTfqhD7Zl8VPOtWQ=="
+      },
+      "Microsoft.AspNet.Providers.Core": {
+        "type": "Direct",
+        "requested": "[1.0.0, 1.0.0]",
+        "resolved": "1.0.0",
+        "contentHash": "Bi9hBOJkHfuc/J2FVzd//xpPS82kvlKnnCCk0Qx57ObtsDTMtkqDNCT/02q3rLmoAEKPRiNREZr3Vqcw3mYfzw=="
+      },
+      "Microsoft.AspNet.Providers.LocalDB": {
+        "type": "Direct",
+        "requested": "[1.0.0, 1.0.0]",
+        "resolved": "1.0.0",
+        "contentHash": "MkWAoGKTlS0FgMd+zcn/8ttcu5GCpR+lYVnlHSMAx+g7KCm5gFP/C9VyLzbrs425R7ffk8pWU/77JjXwt6f+pQ=="
+      },
+      "Microsoft.AspNet.Razor": {
+        "type": "Direct",
+        "requested": "[1.0.20105.408, 1.0.20105.408]",
+        "resolved": "1.0.20105.408",
+        "contentHash": "vRmwL/G31Xc9DusVQUJXmDpTYEVB7xUoIjKqCyuOHrCyG9kzM66MadNjdPLzplSsDoWqiae35US8XiiI3e6SBw=="
+      },
+      "Microsoft.AspNet.WebPages": {
+        "type": "Direct",
+        "requested": "[1.0.20105.408, 1.0.20105.408]",
+        "resolved": "1.0.20105.408",
+        "contentHash": "da1//kx0b6GXJG6V8vGl7PmvhPJE/aNs2mK0QJ9bojgy059BDdYhmAwpTT1ucDgbImbFDdmNGi/XJj2SU0QJeA=="
+      },
+      "Microsoft.Web.Infrastructure": {
+        "type": "Direct",
+        "requested": "[1.0.0, 1.0.0]",
+        "resolved": "1.0.0",
+        "contentHash": "FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg=="
+      }
+    }
+  }
+}

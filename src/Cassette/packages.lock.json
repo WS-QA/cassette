@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.0,Profile=Client": {
+      "AjaxMin": {
+        "type": "Direct",
+        "requested": "[4.84.4790.14417, 4.84.4790.14417]",
+        "resolved": "4.84.4790.14417",
+        "contentHash": "DO0n4oj6EfNW9ut/5aXlJXQ2CQdrWeVnwKd1kBe7W0loUl3QxvQ+4hbJaMBmMIwIB2BWfLAQr6dgjk0yju9xTQ=="
+      },
+      "SharpCompress": {
+        "type": "Direct",
+        "requested": "[0.20.0, 0.20.0]",
+        "resolved": "0.20.0",
+        "contentHash": "54YhqiEQUeorjtfwbhRpnMEU2sIgSxpk30a74eHK1qF86BJXys49IHGH0nd5xXpeARQ84G8Cf9jpMgKB5iDDuQ=="
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+body
+{
+    font-size: .85em;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+h1 {
+    background-image: url(cassette-logo.png);
+    background-repeat: no-repeat;
+    padding-top: 120px;
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": {
+    "Any,Version=v0.0": {
+      "Newtonsoft.Json": {
+        "type": "Direct",
+        "requested": "[4.5.10, 4.5.10]",
+        "resolved": "4.5.10",
+        "contentHash": "xeyqDiBLANWGxEPbevCsmMWqE58gvpehdfXIr51bJQFAkyB+3zm6K5HyRo/Y8mxPXdvfBy74oxTknMHN2JArmQ=="
+      },
+      "NotFoundMvc": {
+        "type": "Direct",
+        "requested": "[1.0.0, 1.0.0]",
+        "resolved": "1.0.0",
+        "contentHash": "9XoZEhzgASNN4gjAWuPw0wiWW+FlQx/gEpP77MpTSY+sX01tT5hC5F1XbFMlqw+oEGrPicho2IbArRSZ6p1jkg=="
+      }
+    }
+  }
+}

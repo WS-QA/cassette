@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.0": {
+      "nQuant": {
+        "type": "Direct",
+        "requested": "[0.9.8, 0.9.8]",
+        "resolved": "0.9.8",
+        "contentHash": "gDKBtmmE5/MbxWhn7SthPJEF5FCeZsfptDNnIUCMM5YCc+pCPzVZjBtUXdsvnQlB+PCrUn2tP/PZHriXYkAu7w=="
+      }
+    }
+  }
+}

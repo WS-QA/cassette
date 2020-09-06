@@ -1,0 +1,1 @@
+To run the DotNet35 project, change to the DebugNET35 solution configuration (Build > Configuration Manager...)
