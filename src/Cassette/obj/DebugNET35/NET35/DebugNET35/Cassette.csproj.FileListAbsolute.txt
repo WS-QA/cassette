@@ -1,0 +1,13 @@
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\Cassette.XML
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\Cassette.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\Cassette.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\AjaxMin.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\Iesi.Collections.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\bin\DebugNET35\NET35\Iesi.Collections.xml
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.Properties.Resources.resources
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.csproj.GenerateResource.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette\obj\DebugNET35\NET35\DebugNET35\Cassette.pdb

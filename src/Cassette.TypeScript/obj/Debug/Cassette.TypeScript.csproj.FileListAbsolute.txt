@@ -1,0 +1,12 @@
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\Cassette.TypeScript.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\Cassette.TypeScript.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\Cassette.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\AjaxMin.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\Cassette.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\Cassette.xml
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\obj\Debug\Cassette.TypeScript.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\obj\Debug\Cassette.TypeScript.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\obj\Debug\Cassette.TypeScript.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\obj\Debug\Cassette.TypeScript.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\obj\Debug\Cassette.TypeScript.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.TypeScript\bin\Debug\SharpCompress.dll

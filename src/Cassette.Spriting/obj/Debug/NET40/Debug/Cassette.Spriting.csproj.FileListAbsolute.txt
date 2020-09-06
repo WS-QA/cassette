@@ -1,0 +1,14 @@
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\Cassette.Spriting.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\Cassette.Spriting.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\Cassette.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\nQuant.Core.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\AjaxMin.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\Cassette.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\Cassette.xml
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\nQuant.Core.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\obj\Debug\NET40\Debug\Cassette.Spriting.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\obj\Debug\NET40\Debug\Cassette.Spriting.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\obj\Debug\NET40\Debug\Cassette.Spriting.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\obj\Debug\NET40\Debug\Cassette.Spriting.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\obj\Debug\NET40\Debug\Cassette.Spriting.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\cassette-2.4.2\src\Cassette.Spriting\bin\Debug\NET40\SharpCompress.dll
